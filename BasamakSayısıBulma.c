@@ -5,9 +5,6 @@
 
 int main(int argc, char *argv[]) {
 
-	//21181617017
-	//İbrahim Can Gök
-	//3 Basamak sayısı bulma sorusu
 	
     int i=100,ozel_sayi = 0,toplam,yuzler,onlar,birler;
 	printf("Aranilan sayilar : ");
